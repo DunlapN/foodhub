@@ -20,9 +20,21 @@
   height: 500px;
   padding-top: 150px;
 }
+.footer{
+  background-color: blue;
+  color: white;
+}
 
-
-
+.navbar {
+  background-color: rgb(246,52,64);
+}
+.navbar a {
+  color: white !important;
+}
+.navbar-brand {
+  font-family: "Passion One";
+  font-size: xx-large;
+}
 
 .small-circle-image{
   width:  150px;
