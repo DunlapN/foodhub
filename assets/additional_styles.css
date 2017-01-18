@@ -10,10 +10,16 @@
   background-color: white
   height 500px;
 }
-.sound-bites{
-  background-color: lightgrey
+.sound-bites, .why-order-with-foodhub{
+  background-color: rgb(238, 238, 238)
 }
-
+.download-apps{
+  background: url("images/download-hero.jpg") no-repeat center center;
+  background-size: cover;
+  color: white;
+  height: 500px;
+  padding-top: 150px;
+}
 
 
 
@@ -24,7 +30,9 @@
 .xsmall-circle-images{
   width: 50px;
 }
-
+.tab-image{
+  width: 200px
+}
 
 body {
   font-family: "Montserrat";
