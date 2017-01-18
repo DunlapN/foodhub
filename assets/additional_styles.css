@@ -1,6 +1,34 @@
+
+.who-delivers {
+  background: url("images/main-hero.jpg") no-repeat center center;
+  background-size: cover;
+  color: white;
+  height: 500px;
+  padding-top: 150px;
+}
+.how-to-foodhub{
+  background-color: white
+  height 500px;
+}
+.sound-bites{
+  background-color: lightgrey
+}
+
+
+
+
+
+.small-circle-image{
+  width:  150px;
+}
+.xsmall-circle-images{
+  width: 50px;
+}
+
+
 body {
   font-family: "Montserrat";
-  font-size: 16px;
+  font-size: 12px;
 }
 
 h1, h2, h3, h4 {
